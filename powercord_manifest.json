@@ -1,0 +1,9 @@
+{	
+  "name": "Mobile",
+  "description": "The Mobile Theme right on your desktop, goes great with bubblecord(by Benny)",
+  "version": "1.0.0",
+  "author": "Void4DevYT",
+  "license": "MIT",
+  "theme": "mobile.css",
+  "consent": "true"
+}
