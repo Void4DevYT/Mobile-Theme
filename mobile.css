@@ -1,4 +1,7 @@
-/* credit to CorellanStoma#1996 and me for making this */
+/* credit to CorellanStoma#1996 for making the base of this */
+* {
+  border-radius: 15px !important;
+}
 .container-3w7J-x,
 .privateChannels-1nO12o,
 .sidebar-2K8pFh .thin-1ybCId {
